@@ -26,7 +26,8 @@
   "author": "cablesalty <cablesalty@gmail.com>",
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "electron-squirrel-startup": "^1.0.0"
+    "electron-squirrel-startup": "^1.0.0",
+    "notifier": "^0.2.0"
   },
   "repository": {
     "type": "git",
